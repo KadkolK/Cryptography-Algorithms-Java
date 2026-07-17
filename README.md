@@ -25,3 +25,8 @@ This project was developed as part of my **Diploma in Information Technology** c
 * Java GUI development using Swing
 * Event-driven programming
 * String manipulation and bitwise XOR operations
+
+
+### Note
+
+This repository preserves one of my academic projects completed during my Diploma in Information Technology. While it implements foundational cryptographic techniques intended for educational purposes rather than production security, it reflects my early experience with Java application development and GUI programming.
